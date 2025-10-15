@@ -1,4 +1,4 @@
-State, 2022 median household income (dollars), 2022 margin of error, 2023 median household income (dollars), 2023 margin of error, Change in median income (percent) Estimate, Change in median income (percent) Margin of error, 2022 ACS Gini index Estimate, 2022 ACS Gini index Margin of Error, 2023 ACS Gini index Estimate, 2023 ACS Gini index Margin of error, change in gini index (percent) Estimate, change in gini index (percent) margin of error
+State, 2022medianHouseholdIncomeInDollars, 2022marginOfError, 2023medianHouseholdIncomeInDollars, 2023marginOfError, ChangeInMedianIncomePercentEstimate, ChangeInMedianIncomePercentMarginOfError, 2022ACSGiniIndexEstimate, 2022ACSGiniIndexMarginOfError, 2023ACSGiniIndexEstimate, 2023ACSGiniIndexMarginOfError, changeInGiniIndexPercentEstimate, changeInGiniIndexPercentMarginOfError
 United States, 77.839, 154, 77.719, 186, –0.2, 0.3, 0.486, 0.001, 0.483, 0.001, *–0.7, 0.2
 Alabama, 62.135, 758, 62.212,  711,  0.1,  1.7,  0.485,  0.005,  0.477,  0.006,  *–1.6,  1.6
 Alaska, 91.757, 2.919, 86.631,  2.575,  *–5.6,  4.1,  0.428,  0.013,  0.449,  0.012,  *5.0,  4.2
